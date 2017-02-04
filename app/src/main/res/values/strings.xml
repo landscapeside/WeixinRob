@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeixinRob</string>
+    <string name="desc">微信自动抢红包</string>
+</resources>
